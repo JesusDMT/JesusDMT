@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:0D1117&height=180&section=header&text=Jes%C3%BAs%20%7C%20JDMT&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%C2%B7%20C%23%20%2F%20ASP.NET%20%C2%B7%20Automation%20%26%20AI&descAlignY=58&descSize=16" width="100%"/>
+<img src="./banner.svg" width="100%" alt="Jesús · JDMT — Full Stack Developer"/>
 
 <a href="https://github.com/JesusDMT">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8A63FF&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;Especialista+en+C%23+%2F+ASP.NET+Core;APIs+REST+%2B+MongoDB;Automatizaci%C3%B3n+con+n8n+e+IA" alt="Typing SVG" />
@@ -10,8 +10,6 @@
 
 <a href="https://jesusdmt.github.io"><img src="https://img.shields.io/badge/Portafolio-0D1117?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 <a href="mailto:entreviskaia@gmail.com"><img src="https://img.shields.io/badge/Email-512BD4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<!-- Añade tu LinkedIn: reemplaza TU_USUARIO -->
-<a href="https://www.linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
@@ -70,21 +68,6 @@ public class JesusDMT
 
 ---
 
-### 📊 Estadísticas
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JesusDMT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusDMT&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=JesusDMT&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JesusDMT&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-
 <div align="center">
 
 ### 🤝 ¿Trabajamos juntos?
@@ -93,7 +76,5 @@ Estoy abierto a **proyectos freelance, colaboraciones y oportunidades full stack
 <br/>Escríbeme a **entreviskaia@gmail.com**
 
 <img src="https://komarev.com/ghpvc/?username=JesusDMT&color=8A63FF&style=for-the-badge&label=Visitas" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:512BD4&height=100&section=footer" width="100%"/>
 
 </div>
