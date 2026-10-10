@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130"><style>
+text{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif}
+.r{opacity:0;animation:up .9s cubic-bezier(.2,.7,.2,1) forwards}
+.l{opacity:0;animation:left .9s cubic-bezier(.2,.7,.2,1) forwards}
+.f{opacity:0;animation:fade 1.2s ease forwards}
+.d{stroke-dasharray:1200;stroke-dashoffset:1200;animation:draw 1.6s ease forwards}
+@keyframes up{from{opacity:0;transform:translateY(24px)}to{opacity:1;transform:translateY(0)}}
+@keyframes left{from{opacity:0;transform:translateX(-40px)}to{opacity:1;transform:translateX(0)}}
+@keyframes fade{to{opacity:1}}
+@keyframes draw{to{stroke-dashoffset:0}}
+</style><rect width="1200" height="130" rx="16" fill="#0D1117" stroke="#30363D"/><g class="l" style="animation-delay:0s"><text x="40" y="58" fill="#8A63FF" font-size="14" font-weight="700" letter-spacing="3">03 — PROYECTOS</text><text x="40" y="92" fill="#FFFFFF" font-size="30" font-weight="800">Trabajo seleccionado</text></g><line class="d" x1="40" y1="110" x2="1160" y2="110" stroke="#512BD4" stroke-width="2" style="animation-delay:0.3s"/></svg>

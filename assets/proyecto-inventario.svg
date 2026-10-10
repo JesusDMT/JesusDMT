@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="200" viewBox="0 0 590 200"><style>
+text{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif}
+.r{opacity:0;animation:up .9s cubic-bezier(.2,.7,.2,1) forwards}
+.l{opacity:0;animation:left .9s cubic-bezier(.2,.7,.2,1) forwards}
+.f{opacity:0;animation:fade 1.2s ease forwards}
+.d{stroke-dasharray:1200;stroke-dashoffset:1200;animation:draw 1.6s ease forwards}
+@keyframes up{from{opacity:0;transform:translateY(24px)}to{opacity:1;transform:translateY(0)}}
+@keyframes left{from{opacity:0;transform:translateX(-40px)}to{opacity:1;transform:translateX(0)}}
+@keyframes fade{to{opacity:1}}
+@keyframes draw{to{stroke-dashoffset:0}}
+</style><g class="r" style="animation-delay:0.30s"><rect x="1" y="1" width="588" height="198" rx="14" fill="#0D1117" stroke="#30363D"/><rect x="1" y="1" width="588" height="5" rx="2" fill="#3776AB"/><text x="32" y="62" fill="#FFFFFF" font-size="26" font-weight="800">Inventario</text><text x="32" y="102" fill="#C9D1D9" font-size="18">Sistema de gestión de inventario</text><text x="32" y="128" fill="#C9D1D9" font-size="18">con pruebas unitarias.</text><circle cx="40" cy="166" r="7" fill="#3776AB"/><text x="56" y="172" fill="#8B949E" font-size="16">Python</text><text x="556" y="172" text-anchor="end" fill="#8A63FF" font-size="16" font-weight="600">Ver repositorio →</text></g></svg>
