@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://jesusdmt.github.io"><img src="https://img.shields.io/badge/Portafolio-jesusdmt.github.io-0D1117?style=flat-square&logo=githubpages&logoColor=white"/></a>
-  <a href="mailto:entreviskaia@gmail.com"><img src="https://img.shields.io/badge/Contacto-entreviskaia%40gmail.com-512BD4?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:jesus1407tj@gmail.com"><img src="https://img.shields.io/badge/Contacto-jesus1407tj%40gmail.com-512BD4?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
 ## Perfil
@@ -37,4 +37,4 @@ Desarrollador Full Stack especializado en el ecosistema **.NET**. Diseño y cons
 ## Contacto
 
 Disponible para proyectos freelance, colaboraciones y posiciones como desarrollador Full Stack / .NET.
-Correo: **entreviskaia@gmail.com** · Ubicación: **Colombia**
+Correo: **jesus1407tj@gmail.com** · Ubicación: **Colombia**
