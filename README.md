@@ -1,8 +1,10 @@
 <img src="./banner.svg" width="100%" alt="Jesús · JDMT — Full Stack Developer"/>
 
 <p align="center">
-  <a href="https://jesusdmt.github.io"><img src="https://img.shields.io/badge/Portafolio-jesusdmt.github.io-0D1117?style=flat-square&logo=githubpages&logoColor=white"/></a>
-  <a href="mailto:jesus1407tj@gmail.com"><img src="https://img.shields.io/badge/Contacto-jesus1407tj%40gmail.com-512BD4?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://jesusdmt.github.io/portafolio/"><img src="https://img.shields.io/badge/Ver%20portafolio%20interactivo-%E2%86%92-512BD4?style=for-the-badge&labelColor=0D1117&color=512BD4" height="42"/></a>
+</p>
+<p align="center">
+  <a href="mailto:jesus1407tj@gmail.com"><img src="https://img.shields.io/badge/Contacto-jesus1407tj%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
 <img src="./assets/perfil.svg" width="100%" alt="Perfil"/>
